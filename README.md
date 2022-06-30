@@ -9,4 +9,4 @@ This Order dashboard app is use to takes the data from the given dataset (CSV) a
  ## How to Start
  For Local View, use this link http://localhost:3000 to view it in your browser.
 
- For Website view , use this link
+ For Website view , use this link https://kumarvikas10.github.io/order-dashboard-app/
