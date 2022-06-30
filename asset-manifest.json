@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/order-dashboard-app/static/css/main.7b255cb2.css",
-    "main.js": "/order-dashboard-app/static/js/main.c6cc37d9.js",
+    "main.css": "/order-dashboard-app/static/css/main.531f1d38.css",
+    "main.js": "/order-dashboard-app/static/js/main.159063c4.js",
     "index.html": "/order-dashboard-app/index.html",
-    "main.7b255cb2.css.map": "/order-dashboard-app/static/css/main.7b255cb2.css.map",
-    "main.c6cc37d9.js.map": "/order-dashboard-app/static/js/main.c6cc37d9.js.map"
+    "main.531f1d38.css.map": "/order-dashboard-app/static/css/main.531f1d38.css.map",
+    "main.159063c4.js.map": "/order-dashboard-app/static/js/main.159063c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b255cb2.css",
-    "static/js/main.c6cc37d9.js"
+    "static/css/main.531f1d38.css",
+    "static/js/main.159063c4.js"
   ]
 }
